@@ -15,12 +15,6 @@
 - 💬 **Real-Time Chatrooms**  
   Stay connected with fellow readers through instant messaging.
 
-- 🔖 **Bookmarks & Highlights**  
-  Mark favorite lines and keep notes for later.
-
-- 🎯 **Buddy Reading**  
-  Read and track progress with a friend in real time.
-
 - 🔎 **Book Discovery & Recommendations**  
   Find books tailored to your preferences.
 
@@ -29,7 +23,7 @@
 ## 📱 App Screens
 
 - Home Screen
-- Book Club List & Club Details
+-Discover screen
 - Chatroom for each club
 - Login / Signup with modern UI
 - Reading Tracker Screen
